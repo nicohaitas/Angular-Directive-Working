@@ -1,0 +1,23 @@
+/* Add application styles & imports to this file! */
+.yellow {
+  width: 100px;
+  height:100px;
+  background: yellow;
+  margin: 10px;
+}
+.blue {
+  width: 100px;
+  height:100px;
+  background: blue;
+  margin: 10px;
+}
+.grey {
+  width: 100px;
+  height:100px;
+  background: grey;
+  margin: 10px;
+}
+
+div:hover {
+  cursor: pointer;
+}
